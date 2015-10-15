@@ -33,4 +33,6 @@ pre.center{
     width: 60%;
     border: #F2773F solid;
 }
-
+li.done {
+    text-decoration: line-through;
+}
